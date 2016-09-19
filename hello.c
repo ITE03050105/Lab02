@@ -1,5 +1,5 @@
 #include<stdio>
 int main()
 {
-	printf("Hello MCUITE 03050105");
+	printf("Hello MCU ITE 03050105");
 }
