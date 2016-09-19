@@ -1,5 +1,5 @@
 #include<stdio>
 int main()
 {
-	printf("HelloMCUITE03050105");
+	printf("Hello MCUITE 03050105");
 }
